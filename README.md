@@ -14,7 +14,13 @@
 
 ## 🧬 Biography
 
-I am an incoming Ph.D. student at Shanghai Jiao Tong University, advised by [Prof. Xiaohong Liu](https://jhc.sjtu.edu.cn/~xiaohongliu/) and [Prof. Tao Huang](https://taohuang.info/). I will conduct my research in the [Multimedia Lab](https://multimedia.sjtu.edu.cn/) led by [Prof. Guangtao Zhai](https://cs.sjtu.edu.cn/jzhspjs/1360.html). Previously, I worked on 3D generation research at the Hong Kong University of Science and Technology, collaborating closely with [Jian Liu](https://hitcslj.github.io/) under the supervision of [Prof. Song Guo](https://cse.hkust.edu.cn/~songguo/).
+I am an incoming Ph.D. student in Computer Science at Shanghai Jiao Tong University, advised by [Prof. Xiaohong Liu](https://jhc.sjtu.edu.cn/~xiaohongliu/) and [Prof. Tao Huang](https://taohuang.info/). I will conduct my research in the [Multimedia Lab](https://multimedia.sjtu.edu.cn/) led by [Prof. Guangtao Zhai](https://cs.sjtu.edu.cn/jzhspjs/1360.html).
+
+<br>
+
+Previously, I worked on 3D generation research at the Hong Kong University of Science and Technology, collaborating closely with [Jian Liu](https://hitcslj.github.io/) under the supervision of [Prof. Song Guo](https://cse.hkust.edu.cn/~songguo/). I received my B.Eng. from Sichuan University.
+
+<br>
 
 ## 🔬 Selected Research
 
@@ -22,38 +28,32 @@ I am an incoming Ph.D. student at Shanghai Jiao Tong University, advised by [Pro
 <tr>
 <td width="34%" valign="top">
 
-<img src="picture/uapar.png" width="100%" alt="UAPAR project teaser">
+<img src="picture/uapar.png" width="100%" height="220" style="object-fit: contain;" alt="UAPAR project teaser">
 
 </td>
 <td width="66%" valign="top">
 
-**Uncertainty-Aware Evidential Learning for Pedestrian Attribute Recognition**
+**[Uncertainty-Aware Evidential Learning for Pedestrian Attribute Recognition](https://arxiv.org/abs/2604.26873)**
 
-**Zhuofan Lou**, Shihang Zhang, Fangle Zhu, Shengjie Ye, and Pingyu Wang<br>
-First Author · Sichuan University
+**Zhuofan Lou**<sup>*</sup>, Shihang Zhang, Fangle Zhu, Shengjie Ye, and Pingyu Wang
 
-<small><a href="https://arxiv.org/pdf/2604.26873">Paper</a></small>
-
-This work addresses unreliable predictions in pedestrian attribute recognition by modeling uncertainty with evidential learning. The method improves confidence calibration and supports more dependable recognition under ambiguous visual conditions.
+<small>Under Review · <a href="https://arxiv.org/pdf/2604.26873">Paper</a> · <a href="https://github.com/ZhuofanLou/UAPAR">Code</a></small>
 
 </td>
 </tr>
 <tr>
 <td width="34%" valign="top">
 
-<img src="picture/vs2iw.png" width="100%" alt="VS2IW project teaser">
+<img src="picture/vs2iw.png" width="100%" height="220" style="object-fit: contain;" alt="VS2IW project teaser">
 
 </td>
 <td width="66%" valign="top">
 
-**Towards Production-Ready 3D Generation: From Visual Synthesis to Industrial Workflows**
+**[Towards Production-Ready 3D Generation: From Visual Synthesis to Industrial Workflows](https://arxiv.org/abs/2604.23629)**
 
-Jiafeng Wu, **Zhuofan Lou**, Jian Liu, Dazhao Du, Chunchao Guo, and Song Guo<br>
-Co-first Author · The Hong Kong University of Science and Technology
+Jiafeng Wu<sup>*</sup>, **Zhuofan Lou**<sup>*</sup>, Jian Liu, Dazhao Du, Chunchao Guo, and Song Guo
 
-<small><a href="https://arxiv.org/pdf/2604.23629">Paper</a> · <a href="https://christinebobby.github.io/production-ready-3d-survey/">Project Page</a></small>
-
-This work examines 3D generation from an industrial perspective, connecting visual synthesis with production requirements across geometry, topology, UVs, materials, and rigging. I contributed to the General Objects and Props track and helped organize practical workflows for production-ready 3D AIGC.
+<small>Under Review · <a href="https://arxiv.org/pdf/2604.23629">Paper</a> · <a href="https://christinebobby.github.io/production-ready-3d-survey/">Project Page</a></small>
 
 </td>
 </tr>
