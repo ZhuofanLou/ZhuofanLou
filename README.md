@@ -64,12 +64,12 @@
 
 ## 💼 Research Experience
 
-<table width="100%" cellspacing="0" cellpadding="8" style="table-layout: fixed;">
+<table width="100%" style="width: 100%; border-collapse: collapse; table-layout: fixed;" cellspacing="0" cellpadding="8">
 <tr>
-<td width="20%" valign="middle" align="center">
+<td width="20%" style="width: 20%;" valign="middle" align="center">
 <div align="center"><a href="https://en.sjtu.edu.cn/"><img src="picture/上海交通大学-logo-2048px.png" width="96" alt="Shanghai Jiao Tong University logo"></a></div>
 </td>
-<td width="80%" valign="middle" style="line-height: 1.5;">
+<td width="80%" style="width: 80%; line-height: 1.5;" valign="middle">
 <strong><em>Shanghai Jiao Tong University</em></strong><br>
 2027 ~<br>
 Shanghai, China<br>
@@ -78,10 +78,10 @@ Advisors: <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a>
 </td>
 </tr>
 <tr>
-<td width="20%" valign="middle" align="center">
+<td width="20%" style="width: 20%;" valign="middle" align="center">
 <div align="center"><a href="https://hkust.edu.hk/"><img src="picture/香港科技大学（广州）-logo-2048px.png" height="96" alt="The Hong Kong University of Science and Technology logo"></a></div>
 </td>
-<td width="80%" valign="middle" style="line-height: 1.5;">
+<td width="80%" style="width: 80%; line-height: 1.5;" valign="middle">
 <strong><em>The Hong Kong University of Science and Technology</em></strong><br>
 2025.10 ~ 2026.05<br>
 Hong Kong SAR, China<br>
@@ -90,10 +90,10 @@ Advisor: <a href="https://cse.hkust.edu.cn/~songguo/">Prof. Song Guo</a>
 </td>
 </tr>
 <tr>
-<td width="20%" valign="middle" align="center">
+<td width="20%" style="width: 20%;" valign="middle" align="center">
 <div align="center"><a href="https://www.scu.edu.cn/"><img src="picture/四川大学-logo-2048px.png" width="96" alt="Sichuan University logo"></a></div>
 </td>
-<td width="80%" valign="middle" style="line-height: 1.5;">
+<td width="80%" style="width: 80%; line-height: 1.5;" valign="middle">
 <strong><em>Sichuan University</em></strong><br>
 2023 ~ 2027<br>
 Chengdu, Sichuan, China<br>
