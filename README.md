@@ -64,7 +64,11 @@
 
 ## 💼 Research Experience
 
-<table width="100%" style="width: 100%; border-collapse: collapse; table-layout: fixed;" cellspacing="0" cellpadding="8">
+<table width="100%" style="display: table; width: 100%; min-width: 100%; border-collapse: collapse; table-layout: fixed;" cellspacing="0" cellpadding="8">
+<colgroup>
+<col style="width: 20%;">
+<col style="width: 80%;">
+</colgroup>
 <tr>
 <td width="20%" style="width: 20%;" valign="middle" align="center">
 <div align="center"><a href="https://en.sjtu.edu.cn/"><img src="picture/上海交通大学-logo-2048px.png" width="96" alt="Shanghai Jiao Tong University logo"></a></div>
