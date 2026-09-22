@@ -89,7 +89,7 @@ Advisor: <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a>
 <strong><em>Sichuan University</em></strong><br>
 2023.09 ~ 2027.06 (Expected)<br>
 Chengdu, China<br>
-B.Eng. in Electronics and Information Engineering<br>
+B.Eng. in </strong>Electronics and Information Engineering</strong><br>
 GPA: <strong>93.51/100</strong> · Rank: <strong>1/146</strong>
 </div>
 <br clear="left">
