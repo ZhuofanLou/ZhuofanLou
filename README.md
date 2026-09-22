@@ -70,7 +70,7 @@
 2027.09 ~ Present<br>
 Shanghai, China<br>
 Incoming Ph.D. Student in <strong><em>Computer Science</em></strong><br>
-Advisors: <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a> / <a href="https://taohuang.info/">Prof. Tao Huang</a>
+Advisors: <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a> and <a href="https://taohuang.info/">Prof. Tao Huang</a>
 </div>
 <br clear="left"><br>
 
