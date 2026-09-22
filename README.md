@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Zhuofan Lou (娄卓凡)</h1>
+  <h1>Hi, I'm Zhuofan Lou (娄卓凡) 👋</h1>
   <p><strong>Incoming Ph.D. Student · <em>Shanghai Jiao Tong University</em></strong></p>
   <p><strong><em>Video Generation · 3D Generative Modeling · World Model</em></strong></p>
   <p><em>I think, therefore I am</em>&nbsp;&nbsp;&nbsp;<em>— René Descartes</em></p>
@@ -16,7 +16,7 @@
 
 <div style="font-size: 1.05em; line-height: 1.75;">
 <p style="margin: 0 0 2px;">I am an incoming Ph.D. student in <strong><em>Computer Science</em></strong> at <strong><em>Shanghai Jiao Tong University</em></strong>, advised by <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a> and <a href="https://taohuang.info/">Prof. Tao Huang</a>. I will conduct my research in the <a href="https://multimedia.sjtu.edu.cn/">Multimedia Lab</a> led by <a href="https://cs.sjtu.edu.cn/jzhspjs/1360.html">Prof. Guangtao Zhai</a>, with a current focus on video generation.</p>
-<p style="margin: 0;">Previously, I worked on 3D generation research at <strong><em>The Hong Kong University of Science and Technology</em></strong>, collaborating closely with <a href="https://hitcslj.github.io/">Jian Liu</a> under the supervision of <a href="https://cse.hkust.edu.cn/~songguo/">Prof. Song Guo</a>. I received my B.Eng. from <strong><em>Sichuan University (2023–2027)</em></strong>.</p>
+<p style="margin: 0;">Previously, I worked on 3D generation research at <strong><em>The Hong Kong University of Science and Technology</em></strong>, collaborating closely with <a href="https://hitcslj.github.io/">Jian Liu</a> under the supervision of <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a>. I received my B.Eng. from <strong><em>Sichuan University (2023–2027)</em></strong>.</p>
 </div>
 
 <br>
@@ -60,7 +60,7 @@
 </tr>
 </table>
 
-<p><small><sup>*</sup> First/co-first author · <sup>†</sup> Corresponding author</small></p>
+<p><small><sup>*</sup> co-first author · <sup>†</sup> Corresponding author</small></p>
 
 ## 💼 Research Experience
 
@@ -80,7 +80,7 @@ Advisors: <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a>
 2025.10 ~ 2026.05<br>
 Hong Kong SAR, China<br>
 3D Generation Research<br>
-Advisor: <a href="https://cse.hkust.edu.cn/~songguo/">Prof. Song Guo</a>
+Advisor: <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a>
 </div>
 <br clear="left"><br>
 
