@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Zhuofan Lou (娄卓凡)</h1>
-  <p><strong>Incoming Ph.D. Student · Shanghai Jiao Tong University</strong></p>
+  <p><strong>Incoming Ph.D. Student · <em>Shanghai Jiao Tong University</em></strong></p>
   <p>Reliable Visual Learning · Multimodal Intelligence · 3D Generative Modeling</p>
   <p>I study reliable visual learning and multimodal systems that connect perception, generation, and practical 3D workflows.</p>
   <p>
@@ -14,11 +14,11 @@
 
 ## 🧬 Biography
 
-I am an incoming Ph.D. student in Computer Science at Shanghai Jiao Tong University, advised by [Prof. Xiaohong Liu](https://jhc.sjtu.edu.cn/~xiaohongliu/) and [Prof. Tao Huang](https://taohuang.info/). I will conduct my research in the [Multimedia Lab](https://multimedia.sjtu.edu.cn/) led by [Prof. Guangtao Zhai](https://cs.sjtu.edu.cn/jzhspjs/1360.html).
-
+<div style="line-height: 1.8;">
+<p style="margin: 0;">I am an incoming Ph.D. student in <strong><em>Computer Science</em></strong> at <strong><em>Shanghai Jiao Tong University</em></strong>, advised by <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a> and <a href="https://taohuang.info/">Prof. Tao Huang</a>. I will conduct my research in the <a href="https://multimedia.sjtu.edu.cn/">Multimedia Lab</a> led by <a href="https://cs.sjtu.edu.cn/jzhspjs/1360.html">Prof. Guangtao Zhai</a>.</p>
 <br>
-
-Previously, I worked on 3D generation research at the Hong Kong University of Science and Technology, collaborating closely with [Jian Liu](https://hitcslj.github.io/) under the supervision of [Prof. Song Guo](https://cse.hkust.edu.cn/~songguo/). I received my B.Eng. from Sichuan University.
+<p style="margin: 0;">Previously, I worked on 3D generation research at <strong><em>The Hong Kong University of Science and Technology</em></strong>, collaborating closely with <a href="https://hitcslj.github.io/">Jian Liu</a> under the supervision of <a href="https://cse.hkust.edu.cn/~songguo/">Prof. Song Guo</a>. I received my B.Eng. from <strong><em>Sichuan University</em></strong>.</p>
+</div>
 
 <br>
 
@@ -61,7 +61,7 @@ Jiafeng Wu<sup>*</sup>, **Zhuofan Lou**<sup>*</sup>, Jian Liu, Dazhao Du, Chunch
 
 ## Research Experience
 
-**The Hong Kong University of Science and Technology**<br>
+<strong><em>The Hong Kong University of Science and Technology</em></strong><br>
 3D Generation Research · Oct. 2025 – May 2026
 
 Worked on 3D generative modeling and production-ready 3D AIGC, collaborating closely with [Jian Liu](https://hitcslj.github.io/) under the supervision of [Prof. Song Guo](https://cse.hkust.edu.cn/~songguo/).
