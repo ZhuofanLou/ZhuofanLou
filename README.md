@@ -64,7 +64,7 @@
 
 ## 💼 Research Experience
 
-<table width="100%" cellspacing="0" cellpadding="10">
+<table width="100%" cellspacing="0" cellpadding="8">
 <tr>
 <td width="20%" valign="middle" align="center">
 <a href="https://en.sjtu.edu.cn/"><img src="picture/上海交通大学-logo-2048px.png" width="105" height="105" style="object-fit: contain;" alt="Shanghai Jiao Tong University logo"></a>
@@ -73,7 +73,8 @@
 <strong><em>Shanghai Jiao Tong University</em></strong><br>
 2027 ~<br>
 Shanghai, China<br>
-Incoming Ph.D. Student in <strong><em>Computer Science</em></strong>
+Incoming Ph.D. Student in <strong><em>Computer Science</em></strong><br>
+Advisors: <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a> / <a href="https://taohuang.info/">Prof. Tao Huang</a>
 </td>
 </tr>
 <tr>
@@ -84,7 +85,8 @@ Incoming Ph.D. Student in <strong><em>Computer Science</em></strong>
 <strong><em>The Hong Kong University of Science and Technology</em></strong><br>
 2025.10 ~ 2026.05<br>
 Hong Kong SAR, China<br>
-3D Generation Research
+3D Generation Research<br>
+Advisor: <a href="https://cse.hkust.edu.cn/~songguo/">Prof. Song Guo</a>
 </td>
 </tr>
 <tr>
