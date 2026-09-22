@@ -64,44 +64,31 @@
 
 ## 💼 Research Experience
 
-<table width="100%" style="display: table; width: 100%; min-width: 100%; border-collapse: collapse; table-layout: fixed;" cellspacing="0" cellpadding="8">
-<colgroup>
-<col style="width: 20%;">
-<col style="width: 80%;">
-</colgroup>
-<tr>
-<td width="20%" style="width: 20%;" valign="middle" align="center">
-<div align="center"><a href="https://en.sjtu.edu.cn/"><img src="picture/上海交通大学-logo-2048px.png" width="96" alt="Shanghai Jiao Tong University logo"></a></div>
-</td>
-<td width="80%" style="width: 80%; line-height: 1.5;" valign="middle">
+<div style="min-height: 120px; line-height: 1.5; margin: 18px 0;">
+<a href="https://en.sjtu.edu.cn/"><img align="left" src="picture/上海交通大学-logo-2048px.png" width="96" style="margin: 0 32px 0 0;" alt="Shanghai Jiao Tong University logo"></a>
 <strong><em>Shanghai Jiao Tong University</em></strong><br>
 2027 ~<br>
 Shanghai, China<br>
 Incoming Ph.D. Student in <strong><em>Computer Science</em></strong><br>
 Advisors: <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a> / <a href="https://taohuang.info/">Prof. Tao Huang</a>
-</td>
-</tr>
-<tr>
-<td width="20%" style="width: 20%;" valign="middle" align="center">
-<div align="center"><a href="https://hkust.edu.hk/"><img src="picture/香港科技大学（广州）-logo-2048px.png" height="96" alt="The Hong Kong University of Science and Technology logo"></a></div>
-</td>
-<td width="80%" style="width: 80%; line-height: 1.5;" valign="middle">
+</div>
+<br clear="left">
+
+<div style="min-height: 120px; line-height: 1.5; margin: 18px 0;">
+<a href="https://hkust.edu.hk/"><img align="left" src="picture/香港科技大学（广州）-logo-2048px.png" height="96" style="margin: 0 32px 0 0;" alt="The Hong Kong University of Science and Technology logo"></a>
 <strong><em>The Hong Kong University of Science and Technology</em></strong><br>
 2025.10 ~ 2026.05<br>
 Hong Kong SAR, China<br>
 3D Generation Research<br>
 Advisor: <a href="https://cse.hkust.edu.cn/~songguo/">Prof. Song Guo</a>
-</td>
-</tr>
-<tr>
-<td width="20%" style="width: 20%;" valign="middle" align="center">
-<div align="center"><a href="https://www.scu.edu.cn/"><img src="picture/四川大学-logo-2048px.png" width="96" alt="Sichuan University logo"></a></div>
-</td>
-<td width="80%" style="width: 80%; line-height: 1.5;" valign="middle">
+</div>
+<br clear="left">
+
+<div style="min-height: 120px; line-height: 1.5; margin: 18px 0;">
+<a href="https://www.scu.edu.cn/"><img align="left" src="picture/四川大学-logo-2048px.png" width="96" style="margin: 0 32px 0 0;" alt="Sichuan University logo"></a>
 <strong><em>Sichuan University</em></strong><br>
 2023 ~ 2027<br>
 Chengdu, Sichuan, China<br>
-B.Eng. Student · GPA: <strong>93.51/100</strong> · Rank: <strong>1/146</strong>
-</td>
-</tr>
-</table>
+B.Eng. in Electronics and Information Engineering · GPA: <strong>93.51/100</strong> · Rank: <strong>1/146</strong>
+</div>
+<br clear="left">
