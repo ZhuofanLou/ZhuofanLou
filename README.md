@@ -78,7 +78,7 @@ Advisors: <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a>
 <img align="left" src="picture/香港科技大学（广州）-logo-2048px.png" height="96" hspace="37" alt="The Hong Kong University of Science and Technology logo">
 <strong><em>The Hong Kong University of Science and Technology</em></strong><br>
 2025.10 ~ 2026.05<br>
-Hong Kong SAR, China<br>
+Hong Kong, China<br>
 3D Generation Research<br>
 Advisor: <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a>
 </div>
@@ -88,8 +88,9 @@ Advisor: <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a>
 <img align="left" src="picture/四川大学-logo-2048px.png" width="96" hspace="20" alt="Sichuan University logo">
 <strong><em>Sichuan University</em></strong><br>
 2023.09 ~ 2027.06 (Expected)<br>
-Chengdu, Sichuan, China<br>
-B.Eng. in Electronics and Information Engineering · GPA: <strong>93.51/100</strong> · Rank: <strong>1/146</strong>
+Chengdu, China<br>
+B.Eng. in Electronics and Information Engineering
+GPA: <strong>93.51/100</strong> · Rank: <strong>1/146</strong>
 </div>
 <br clear="left">
 
