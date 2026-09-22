@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi, I'm Zhuofan Lou (娄卓凡)</h1>
   <p><strong>Incoming Ph.D. Student · <em>Shanghai Jiao Tong University</em></strong></p>
-  <p>Reliable Visual Learning · Multimodal Intelligence · 3D Generative Modeling</p>
-  <p>I study reliable visual learning and multimodal systems that connect perception, generation, and practical 3D workflows.</p>
+  <p><strong><em>Video Generation · 3D Generative Modeling · World Model</em></strong></p>
+  <p>I think, therefore I am — René Descartes</p>
   <p>
     <a href="mailto:zhuofanlou2005@gmail.com"><img src="https://img.shields.io/badge/Email-zhuofanlou2005%40gmail.com-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
     <a href="https://scholar.google.com/citations?user=rgRzNucAAAAJ&amp;hl=en&amp;oi=sra"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&amp;logo=google-scholar&amp;logoColor=white" alt="Google Scholar"></a>
@@ -31,7 +31,7 @@
 <td width="66%" valign="top">
 <div style="height: 180px; display: flex; flex-direction: column; justify-content: space-between; line-height: 1.4;">
 <div>
-<p style="margin: 0 0 6px;"><strong><a href="https://arxiv.org/abs/2604.26873">UAPAR: Uncertainty-Aware Evidential Learning for Pedestrian Attribute Recognition</a></strong></p>
+<p style="margin: 0 0 6px; font-size: 1.08em;"><strong><em><a href="https://arxiv.org/abs/2604.26873">UAPAR: Uncertainty-Aware Evidential Learning for Pedestrian Attribute Recognition</a></em></strong></p>
 <p style="margin: 0;"><strong>Zhuofan Lou</strong><sup>*</sup>, Shihang Zhang, Fangle Zhu, Shengjie Ye, and Pingyu Wang<sup>†</sup></p>
 </div>
 <div>
@@ -48,7 +48,7 @@
 <td width="66%" valign="top">
 <div style="height: 180px; display: flex; flex-direction: column; justify-content: space-between; line-height: 1.4;">
 <div>
-<p style="margin: 0 0 6px;"><strong><a href="https://arxiv.org/abs/2604.23629">Towards Production-Ready 3D Generation: From Visual Synthesis to Industrial Workflows</a></strong></p>
+<p style="margin: 0 0 6px; font-size: 1.08em;"><strong><em><a href="https://arxiv.org/abs/2604.23629">Towards Production-Ready 3D Generation: From Visual Synthesis to Industrial Workflows</a></em></strong></p>
 <p style="margin: 0;">Jiafeng Wu<sup>*</sup>, <strong>Zhuofan Lou</strong><sup>*</sup>, Jian Liu, Dazhao Du, Chunchao Guo, and Song Guo<sup>†</sup></p>
 </div>
 <div>
