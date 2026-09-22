@@ -67,7 +67,7 @@
 <div style="line-height: 1.5;">
 <img align="left" src="picture/上海交通大学-logo-2048px.png" width="96" hspace="20" alt="Shanghai Jiao Tong University logo">
 <strong><em>Shanghai Jiao Tong University</em></strong><br>
-2027 ~<br>
+2027.09 ~ Present<br>
 Shanghai, China<br>
 Incoming Ph.D. Student in <strong><em>Computer Science</em></strong><br>
 Advisors: <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a> / <a href="https://taohuang.info/">Prof. Tao Huang</a>
@@ -87,7 +87,7 @@ Advisor: <a href="https://cse.hkust.edu.cn/~songguo/">Prof. Song Guo</a>
 <div style="line-height: 1.5;">
 <img align="left" src="picture/四川大学-logo-2048px.png" width="96" hspace="20" alt="Sichuan University logo">
 <strong><em>Sichuan University</em></strong><br>
-2023 ~ 2027<br>
+2023.09 ~ 2027.06 (Expected)<br>
 Chengdu, Sichuan, China<br>
 B.Eng. in Electronics and Information Engineering · GPA: <strong>93.51/100</strong> · Rank: <strong>1/146</strong>
 </div>
