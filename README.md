@@ -67,32 +67,35 @@
 <table width="100%" cellspacing="0" cellpadding="10">
 <tr>
 <td width="20%" valign="middle" align="center">
-<a href="https://www.scu.edu.cn/"><img src="https://www.scu.edu.cn/images/logo.png" width="105" alt="Sichuan University logo"></a>
-</td>
-<td width="80%" valign="middle" style="line-height: 1.5;">
-<strong><em>Sichuan University</em></strong><br>
-B.Eng. · 2023–2027<br>
-GPA: <strong>93.51/100</strong> · Rank: <strong>1/146</strong>
-</td>
-</tr>
-<tr>
-<td width="20%" valign="middle" align="center">
-<a href="https://hkust.edu.hk/"><img src="https://hkust.edu.hk/sites/default/files/2024-03/HKUST_logo_1.svg" width="125" alt="HKUST logo"></a>
-</td>
-<td width="80%" valign="middle" style="line-height: 1.5;">
-<strong><em>The Hong Kong University of Science and Technology</em></strong><br>
-3D Generation Research · Oct. 2025 – May 2026<br>
-Worked on 3D generative modeling and production-ready 3D AIGC, collaborating closely with <a href="https://hitcslj.github.io/">Jian Liu</a> under the supervision of <a href="https://cse.hkust.edu.cn/~songguo/">Prof. Song Guo</a>.
-</td>
-</tr>
-<tr>
-<td width="20%" valign="middle" align="center">
-<a href="https://en.sjtu.edu.cn/"><span style="display: inline-block; padding: 8px; background: #7a1738;"><img src="https://global.sjtu.edu.cn/en/assets/images/logo_white_130.png" width="105" alt="Shanghai Jiao Tong University logo"></span></a>
+<a href="https://en.sjtu.edu.cn/"><img src="picture/上海交通大学-logo-2048px.png" width="105" height="105" style="object-fit: contain;" alt="Shanghai Jiao Tong University logo"></a>
 </td>
 <td width="80%" valign="middle" style="line-height: 1.5;">
 <strong><em>Shanghai Jiao Tong University</em></strong><br>
-Incoming Ph.D. Student · <strong><em>Computer Science</em></strong><br>
-Advised by <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a> and <a href="https://taohuang.info/">Prof. Tao Huang</a>; conducting research in the <a href="https://multimedia.sjtu.edu.cn/">Multimedia Lab</a> led by <a href="https://cs.sjtu.edu.cn/jzhspjs/1360.html">Prof. Guangtao Zhai</a>, with a current focus on video generation.
+2027 ~<br>
+Shanghai, China<br>
+Incoming Ph.D. Student in <strong><em>Computer Science</em></strong>
+</td>
+</tr>
+<tr>
+<td width="20%" valign="middle" align="center">
+<a href="https://hkust.edu.hk/"><img src="picture/香港科技大学（广州）-logo-2048px.png" width="105" height="105" style="object-fit: contain;" alt="The Hong Kong University of Science and Technology logo"></a>
+</td>
+<td width="80%" valign="middle" style="line-height: 1.5;">
+<strong><em>The Hong Kong University of Science and Technology</em></strong><br>
+2025.10 ~ 2026.05<br>
+Hong Kong SAR, China<br>
+3D Generation Research
+</td>
+</tr>
+<tr>
+<td width="20%" valign="middle" align="center">
+<a href="https://www.scu.edu.cn/"><img src="picture/四川大学-logo-2048px.png" width="105" height="105" style="object-fit: contain;" alt="Sichuan University logo"></a>
+</td>
+<td width="80%" valign="middle" style="line-height: 1.5;">
+<strong><em>Sichuan University</em></strong><br>
+2023 ~ 2027<br>
+Chengdu, Sichuan, China<br>
+B.Eng. Student · GPA: <strong>93.51/100</strong> · Rank: <strong>1/146</strong>
 </td>
 </tr>
 </table>
