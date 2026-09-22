@@ -92,3 +92,11 @@ Chengdu, Sichuan, China<br>
 B.Eng. in Electronics and Information Engineering · GPA: <strong>93.51/100</strong> · Rank: <strong>1/146</strong>
 </div>
 <br clear="left">
+
+## 🏆 Honors
+
+- **National Scholarship** · 2024 · Top 0.4%
+- **National Scholarship** · 2025 · Top 0.4%
+- **Outstanding Student, Sichuan University** · 2024, 2025, 2026
+- **First Prize, National College Student Mathematics Competition** · Top 0.1%
+- **Sichuan University Mathematics Competition** · Rank: 10/909
