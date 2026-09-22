@@ -4,9 +4,9 @@
   <p>Reliable Visual Learning · Multimodal Intelligence · 3D Generative Modeling</p>
   <p>I study reliable visual learning and multimodal systems that connect perception, generation, and practical 3D workflows.</p>
   <p>
-    <a href="mailto:zhuofanlou2005@gmail.com" title="zhuofanlou2005@gmail.com"><kbd>Email</kbd></a>
-    <a href="https://scholar.google.com/citations?user=rgRzNucAAAAJ&amp;hl=en&amp;oi=sra"><kbd>Google Scholar</kbd></a>
-    <a href="picture/wechat.jpg" title="WeChat QR code"><kbd>WeChat</kbd></a>
+    <a href="mailto:zhuofanlou2005@gmail.com"><img src="https://img.shields.io/badge/Email-zhuofanlou2005%40gmail.com-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+    <a href="https://scholar.google.com/citations?user=rgRzNucAAAAJ&amp;hl=en&amp;oi=sra"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&amp;logo=google-scholar&amp;logoColor=white" alt="Google Scholar"></a>
+    <a href="picture/wechat.jpg"><img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&amp;logo=wechat&amp;logoColor=white" alt="WeChat QR code"></a>
   </p>
 </div>
 
@@ -15,8 +15,7 @@
 ## 🧬 Biography
 
 <div style="line-height: 1.8;">
-<p style="margin: 0;">I am an incoming Ph.D. student in <strong><em>Computer Science</em></strong> at <strong><em>Shanghai Jiao Tong University</em></strong>, advised by <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a> and <a href="https://taohuang.info/">Prof. Tao Huang</a>. I will conduct my research in the <a href="https://multimedia.sjtu.edu.cn/">Multimedia Lab</a> led by <a href="https://cs.sjtu.edu.cn/jzhspjs/1360.html">Prof. Guangtao Zhai</a>.</p>
-<br>
+<p style="margin: 0 0 6px;">I am an incoming Ph.D. student in <strong><em>Computer Science</em></strong> at <strong><em>Shanghai Jiao Tong University</em></strong>, advised by <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a> and <a href="https://taohuang.info/">Prof. Tao Huang</a>. I will conduct my research in the <a href="https://multimedia.sjtu.edu.cn/">Multimedia Lab</a> led by <a href="https://cs.sjtu.edu.cn/jzhspjs/1360.html">Prof. Guangtao Zhai</a>.</p>
 <p style="margin: 0;">Previously, I worked on 3D generation research at <strong><em>The Hong Kong University of Science and Technology</em></strong>, collaborating closely with <a href="https://hitcslj.github.io/">Jian Liu</a> under the supervision of <a href="https://cse.hkust.edu.cn/~songguo/">Prof. Song Guo</a>. I received my B.Eng. from <strong><em>Sichuan University</em></strong>.</p>
 </div>
 
@@ -24,40 +23,30 @@
 
 ## 🔬 Selected Research
 
-<table width="100%" cellspacing="0" cellpadding="14">
+<table width="100%" cellspacing="0" cellpadding="8">
 <tr>
 <td width="34%" valign="top">
-
-<img src="picture/uapar.png" width="100%" height="220" style="object-fit: contain;" alt="UAPAR project teaser">
-
+<img src="picture/uapar.png" width="100%" height="200" style="display: block; object-fit: contain;" alt="UAPAR project teaser">
 </td>
-<td width="66%" valign="top">
-
-**[Uncertainty-Aware Evidential Learning for Pedestrian Attribute Recognition](https://arxiv.org/abs/2604.26873)**
-
-**Zhuofan Lou**<sup>*</sup>, Shihang Zhang, Fangle Zhu, Shengjie Ye, and Pingyu Wang
-
-<small>Under Review · <a href="https://arxiv.org/pdf/2604.26873">Paper</a> · <a href="https://github.com/ZhuofanLou/UAPAR">Code</a></small>
-
+<td width="66%" valign="top" style="line-height: 1.45;">
+<p style="margin: 0 0 8px;"><strong><a href="https://arxiv.org/abs/2604.26873">Uncertainty-Aware Evidential Learning for Pedestrian Attribute Recognition</a></strong></p>
+<p style="margin: 0 0 8px;"><strong>Zhuofan Lou</strong><sup>*</sup>, Shihang Zhang, Fangle Zhu, Shengjie Ye, and Pingyu Wang<sup>†</sup></p>
+<p style="margin: 0;"><small>Under Review · <a href="https://arxiv.org/pdf/2604.26873">Paper</a> · <a href="https://github.com/ZhuofanLou/UAPAR">Code</a></small></p>
 </td>
 </tr>
 <tr>
 <td width="34%" valign="top">
-
-<img src="picture/vs2iw.png" width="100%" height="220" style="object-fit: contain;" alt="VS2IW project teaser">
-
+<img src="picture/vs2iw.png" width="100%" height="200" style="display: block; object-fit: contain;" alt="VS2IW project teaser">
 </td>
-<td width="66%" valign="top">
-
-**[Towards Production-Ready 3D Generation: From Visual Synthesis to Industrial Workflows](https://arxiv.org/abs/2604.23629)**
-
-Jiafeng Wu<sup>*</sup>, **Zhuofan Lou**<sup>*</sup>, Jian Liu, Dazhao Du, Chunchao Guo, and Song Guo
-
-<small>Under Review · <a href="https://arxiv.org/pdf/2604.23629">Paper</a> · <a href="https://christinebobby.github.io/production-ready-3d-survey/">Project Page</a></small>
-
+<td width="66%" valign="top" style="line-height: 1.45;">
+<p style="margin: 0 0 8px;"><strong><a href="https://arxiv.org/abs/2604.23629">Towards Production-Ready 3D Generation: From Visual Synthesis to Industrial Workflows</a></strong></p>
+<p style="margin: 0 0 8px;">Jiafeng Wu<sup>*</sup>, <strong>Zhuofan Lou</strong><sup>*</sup>, Jian Liu, Dazhao Du, Chunchao Guo, and Song Guo<sup>†</sup></p>
+<p style="margin: 0;"><small>Under Review · <a href="https://arxiv.org/pdf/2604.23629">Paper</a> · <a href="https://christinebobby.github.io/production-ready-3d-survey/">Project Page</a></small></p>
 </td>
 </tr>
 </table>
+
+<p><small><sup>*</sup> First/co-first author · <sup>†</sup> Corresponding author</small></p>
 
 ## Research Experience
 
