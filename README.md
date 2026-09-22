@@ -48,7 +48,7 @@
 <td width="66%" valign="top">
 <div style="height: 180px; display: flex; flex-direction: column; justify-content: space-between; line-height: 1.4;">
 <div>
-<p style="margin: 0 0 6px; font-size: 1.08em;"><strong><em><a href="https://arxiv.org/abs/2604.23629">Towards Production-Ready 3D Generation: From Visual Synthesis to Industrial Workflows</a></em></strong></p>
+<p style="margin: 0 0 6px; font-size: 1.08em;"><strong><em><a href="https://arxiv.org/abs/2604.23629">From Visual Synthesis to Interactive Worlds: Toward Production-Ready 3D Asset Generation</a></em></strong></p>
 <p style="margin: 0;">Jiafeng Wu<sup>*</sup>, <strong>Zhuofan Lou</strong><sup>*</sup>, Jian Liu, Dazhao Du, Chunchao Guo, and Song Guo<sup>†</sup></p>
 </div>
 <div>
