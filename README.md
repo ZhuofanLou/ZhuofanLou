@@ -23,7 +23,7 @@
 
 ## 🔬 Selected Research
 
-<table width="100%" cellspacing="0" cellpadding="8">
+<table width="100%" cellspacing="0" cellpadding="8" style="table-layout: fixed;">
 <tr>
 <td width="34%" valign="top">
 <img src="picture/uapar.png" width="100%" height="180" style="display: block; object-fit: contain;" alt="UAPAR project teaser">
@@ -64,12 +64,12 @@
 
 ## 💼 Research Experience
 
-<table width="100%" cellspacing="0" cellpadding="8">
+<table width="100%" cellspacing="0" cellpadding="8" style="table-layout: fixed;">
 <tr>
-<td width="20%" valign="middle" align="center">
+<td width="34%" valign="middle" align="center">
 <a href="https://en.sjtu.edu.cn/"><img src="picture/上海交通大学-logo-2048px.png" width="105" height="105" style="object-fit: contain;" alt="Shanghai Jiao Tong University logo"></a>
 </td>
-<td width="80%" valign="middle" style="line-height: 1.5;">
+<td width="66%" valign="middle" style="line-height: 1.5;">
 <strong><em>Shanghai Jiao Tong University</em></strong><br>
 2027 ~<br>
 Shanghai, China<br>
@@ -78,10 +78,10 @@ Advisors: <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a>
 </td>
 </tr>
 <tr>
-<td width="20%" valign="middle" align="center">
+<td width="34%" valign="middle" align="center">
 <a href="https://hkust.edu.hk/"><img src="picture/香港科技大学（广州）-logo-2048px.png" width="105" height="105" style="object-fit: contain;" alt="The Hong Kong University of Science and Technology logo"></a>
 </td>
-<td width="80%" valign="middle" style="line-height: 1.5;">
+<td width="66%" valign="middle" style="line-height: 1.5;">
 <strong><em>The Hong Kong University of Science and Technology</em></strong><br>
 2025.10 ~ 2026.05<br>
 Hong Kong SAR, China<br>
@@ -90,10 +90,10 @@ Advisor: <a href="https://cse.hkust.edu.cn/~songguo/">Prof. Song Guo</a>
 </td>
 </tr>
 <tr>
-<td width="20%" valign="middle" align="center">
+<td width="34%" valign="middle" align="center">
 <a href="https://www.scu.edu.cn/"><img src="picture/四川大学-logo-2048px.png" width="105" height="105" style="object-fit: contain;" alt="Sichuan University logo"></a>
 </td>
-<td width="80%" valign="middle" style="line-height: 1.5;">
+<td width="66%" valign="middle" style="line-height: 1.5;">
 <strong><em>Sichuan University</em></strong><br>
 2023 ~ 2027<br>
 Chengdu, Sichuan, China<br>
