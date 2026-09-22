@@ -65,7 +65,7 @@
 ## 💼 Research Experience
 
 <div style="min-height: 120px; line-height: 1.5; margin: 18px 0;">
-<a href="https://en.sjtu.edu.cn/"><img align="left" src="picture/上海交通大学-logo-2048px.png" width="96" style="margin: 0 32px 0 0;" alt="Shanghai Jiao Tong University logo"></a>
+<div style="float: left; width: 96px; height: 120px; margin-right: 32px; text-align: center;"><a href="https://en.sjtu.edu.cn/"><img src="picture/上海交通大学-logo-2048px.png" width="96" alt="Shanghai Jiao Tong University logo"></a></div>
 <strong><em>Shanghai Jiao Tong University</em></strong><br>
 2027 ~<br>
 Shanghai, China<br>
@@ -75,7 +75,7 @@ Advisors: <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a>
 <br clear="left">
 
 <div style="min-height: 120px; line-height: 1.5; margin: 18px 0;">
-<a href="https://hkust.edu.hk/"><img align="left" src="picture/香港科技大学（广州）-logo-2048px.png" height="96" style="margin: 0 32px 0 0;" alt="The Hong Kong University of Science and Technology logo"></a>
+<div style="float: left; width: 96px; height: 120px; margin-right: 32px; text-align: center;"><a href="https://hkust.edu.hk/"><img src="picture/香港科技大学（广州）-logo-2048px.png" height="96" alt="The Hong Kong University of Science and Technology logo"></a></div>
 <strong><em>The Hong Kong University of Science and Technology</em></strong><br>
 2025.10 ~ 2026.05<br>
 Hong Kong SAR, China<br>
@@ -85,7 +85,7 @@ Advisor: <a href="https://cse.hkust.edu.cn/~songguo/">Prof. Song Guo</a>
 <br clear="left">
 
 <div style="min-height: 120px; line-height: 1.5; margin: 18px 0;">
-<a href="https://www.scu.edu.cn/"><img align="left" src="picture/四川大学-logo-2048px.png" width="96" style="margin: 0 32px 0 0;" alt="Sichuan University logo"></a>
+<div style="float: left; width: 96px; height: 120px; margin-right: 32px; text-align: center;"><a href="https://www.scu.edu.cn/"><img src="picture/四川大学-logo-2048px.png" width="96" alt="Sichuan University logo"></a></div>
 <strong><em>Sichuan University</em></strong><br>
 2023 ~ 2027<br>
 Chengdu, Sichuan, China<br>
