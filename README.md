@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Zhuofan Lou (娄卓凡) 👋</h1>
-  <p><strong>Incoming Ph.D. Student · <em>Shanghai Jiao Tong University</em></strong></p>
+  <p><strong>Incoming Ph.D. Student at <em>Shanghai Jiao Tong University</em></strong></p>
   <p><strong><em>Video Generation · 3D Generative Modeling · World Model</em></strong></p>
   <p><em>I think, therefore I am</em>&nbsp;&nbsp;&nbsp;<em>— René Descartes</em></p>
   <p>
