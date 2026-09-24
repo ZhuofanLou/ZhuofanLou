@@ -17,7 +17,7 @@
 <div style="font-size: 1.05em; line-height: 1.75;">
 <p style="margin: 0 0 2px;">I am an incoming Ph.D. student in <strong><em>Computer Science</em></strong> at <strong><em>Shanghai Jiao Tong University</em></strong>, advised by <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Prof. Xiaohong Liu</a> and <a href="https://taohuang.info/">Prof. Tao Huang</a>. I will conduct my research in the <a href="https://multimedia.sjtu.edu.cn/">SJTU Multimedia Lab</a> led by <a href="https://cs.sjtu.edu.cn/jzhspjs/1360.html">Prof. Guangtao Zhai</a>, with a current focus on <strong><em>video generation.</em></strong></p>
 <p style="margin: 0;">Previously, I worked on 3D generation research, especially focusing on <strong><em>low‑poly mesh generation</em></strong>, at <strong><em>The Hong Kong University of Science and Technology</em></strong>, collaborating closely with <a href="https://hitcslj.github.io/">Jian Liu</a> under the supervision of <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a>. 
-<p style="margin: 0;">I am expected to receive my B.Eng. in <strong><em>Electronics and Information Engineering</strong></em> from <strong><em>Sichuan University </em></strong>.</p>, advised by <a href="https://eie.scu.edu.cn/info/1044/15278.htm">Prof. Pingyu Wang</a>.
+<p style="margin: 0;">I am expected to receive my B.Eng. in <strong><em>Electronics and Information Engineering</strong></em> from <strong><em>Sichuan University </em></strong>, advised by <a href="https://eie.scu.edu.cn/info/1044/15278.htm">Prof. Pingyu Wang</a></p>.
 </div>
 
 <br>
